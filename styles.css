@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Lato:wght@100&display=swap');
+
+* {
+  background-color: var(--primary-color);
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary-color: #f2f0ed;
+  --primary-dark-color: #676e6e;
+  --secondary-color: #67aaf9;
+  --secondary-dark-color: #031926;
+  --tertiary-color: #fb3640;
+  --tertiary--dark-color: #7f2833;
+}
+
+body {
+  font-family: 'Agdasima', sans-serif;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+}
